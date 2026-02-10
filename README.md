@@ -35,3 +35,5 @@ that doesnt make him less likable for me.'
 '..i also enjoy playing the fife.'
 
 '..i dont know what else to cite here..'
+
+|this readme is a wip|
