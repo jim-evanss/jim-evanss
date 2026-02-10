@@ -1,16 +1,37 @@
-## Hi there 👋
+'..eh?'
 
-<!--
-**jim-evanss/jim-evanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'..oh, everything i write here is for other lads to see, or am i wrong?..'
 
-Here are some ideas to get you started:
+'..well, atleast ill inform them about me.'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'my name is Jim Evans.'
+
+'i was born february 26th, and im currently 24 years old.'
+
+'..my favorite color is marine blue.'
+
+'..i dont like tomatoes.'
+
+'...'
+
+('what else could i say..')
+
+'ah! i also have a close friend i care for dearly. he's a prussian fellow.'
+
+'even if hes not the nicest with everyone at times, ..'
+
+'..which is pretty often,
+
+that doesnt make him less likable for me.'
+
+'..i deeply enjoy eating apples.'
+
+'id dare say they're my favorite food.'
+
+'hardtacks are nice too, either way.'
+
+'..(if they're not infested with worms..)
+
+'..i also enjoy playing the fife.'
+
+'..i dont know what else to cite here..'
