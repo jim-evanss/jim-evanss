@@ -2,7 +2,8 @@
 <img width="1416" height="179" alt="gitlaceup" src="https://github.com/user-attachments/assets/bc179e89-ac10-4586-80f6-8c2aa1291342" />
 
 
-<img width="400" height="400" alt="Sin título" src="https://github.com/user-attachments/assets/966f3df5-fd6d-46f8-8fe1-814340ae0efb" />
+<img width="400" height="400" alt="apol5" src="https://github.com/user-attachments/assets/8bf07dfd-7215-43e7-8235-c9f031664133" />
+
 
 
 
