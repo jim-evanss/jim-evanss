@@ -1,39 +1,13 @@
-'..eh?'
 
-'..oh, everything i write here is for other lads to see, or am i wrong?..'
+<img width="1416" height="1200" alt="lace" src="https://github.com/user-attachments/assets/cbc8a092-6865-4c51-bc99-b43c7fc17bcb" />
 
-'..well, atleast ill inform them about me.'
 
-'my name is Jim Evans.'
 
-'i was born february 26th, and im currently 24 years old.'
 
-'..my favorite color is marine blue.'
+<img width="736" height="1041" alt="Sin título" src="https://github.com/user-attachments/assets/966f3df5-fd6d-46f8-8fe1-814340ae0efb" />
 
-'..i dont like tomatoes.'
 
-'...'
 
-('what else could i say..')
 
-'ah! i also have a close friend i care for dearly. he's a prussian fellow.'
 
-'even if hes not the nicest with everyone at times, ..'
-
-'..which is pretty often,
-
-that doesnt make him less likable for me.'
-
-'..i deeply enjoy eating apples.'
-
-'id dare say they're my favorite food.'
-
-'hardtacks are nice too, either way.'
-
-'..(if they're not infested with worms..)
-
-'..i also enjoy playing the fife.'
-
-'..i dont know what else to cite here..'
-
-|this readme is a wip|
+<img width="1416" height="1200" alt="lace2" src="https://github.com/user-attachments/assets/32355de8-0bd3-456b-bd42-58cafb1a2005" />
