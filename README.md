@@ -3,7 +3,7 @@
 
 
 
-<img width="526" height="550" alt="blegg" src="https://github.com/user-attachments/assets/af97285e-9911-4148-a9b4-31ce0ba9d900" />
+<img width="1264" height="1200" alt="catterpillar" src="https://github.com/user-attachments/assets/9cd7aefa-c4f5-422d-9f27-a1d4f07c9a62" />
 
 
 
