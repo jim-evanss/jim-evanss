@@ -3,7 +3,7 @@
 
 
 
-<img width="1264" height="1200" alt="catterpillar" src="https://github.com/user-attachments/assets/9cd7aefa-c4f5-422d-9f27-a1d4f07c9a62" />
+<img width="1200" height="1200" alt="catterpillar" src="https://github.com/user-attachments/assets/9cd7aefa-c4f5-422d-9f27-a1d4f07c9a62" />
 
 
 
